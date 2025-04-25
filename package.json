@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "regression": "npx playwright test",
-    "allurereporttest": "npx allure generate --clean && npx allure open"
-
+    "allurereporttest": "npx allure generate --clean && npx allure open",
+    "testunit":"npx playwright test --config"
   },
   "keywords": [],
   "author": "",
