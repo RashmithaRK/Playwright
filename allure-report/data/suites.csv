@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11721","Login to site","","Fri Apr 25 11:18:13 CEST 2025","passed","Fri Apr 25 11:18:24 CEST 2025","","example.spec.js","",""
+"","78","Login to site","","Fri Apr 25 11:18:13 CEST 2025","failed","Fri Apr 25 11:18:13 CEST 2025","","ProductStore.spec.js","",""
